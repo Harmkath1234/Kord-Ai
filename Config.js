@@ -4,9 +4,9 @@ global.settings = {
   OWNER_NUMBERS: "2347083737485", // your number with country code
   OWNER_NAME: 'Ola', // your owner name 
   BOT_NAME: "KORD", // your preferred bot name
-  SESSION_ID: 'kord_ai-VEq5vgpvRFNi', // put your session id between the ''
+  SESSION_ID: 'kord_ai-UnsK5dLlFDQf', // put your session id between the ''
   INVINCIBLE_MODE: false, // toogle invincible mode 
-  WORK_MODE: "Public",
+  WORK_MODE: "Private",
   TIME_ZONE: "Africa/Lagos",
   ANTI_VIEWONCE: true,
   READ_ALL_MESSAGES: false,
@@ -20,9 +20,9 @@ global.settings = {
   AUTO_LIKE_STATUS: true,
   AUTO_LIKE_EMOJI: '🍁',
   BANKING_DETAILS: {
-    bank: "Kord-Ai Bank", // the name of your preferred bank
-    acc_number: "1234567890", // account number for your preferred bank
-    acc_name: "MyAccountName" // name of your bank
+    bank: "Opay", // the name of your preferred bank
+    acc_number: "7083737485", // account number for your preferred bank
+    acc_name: "Hammed Iyabo Mujidat" // name of your bank
   },
   /* You can also replace the numbers with your addresses if you're using crypto, a command for this will come soon. */
   API_KEYS: {
